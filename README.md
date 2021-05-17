@@ -4,9 +4,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](screenshots\desktop_design.png)
+![](./screenshots\desktop_design.png)
 
-![](screenshots\mobile_design.png)
+![](./screenshots\mobile_design.png)
 
 ### Links
 
