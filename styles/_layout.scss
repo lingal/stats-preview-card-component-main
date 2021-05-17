@@ -1,0 +1,24 @@
+.main {
+  display: grid;
+  min-height: 100vh;
+  padding: 3rem 0;
+  place-items: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.card__width {
+  max-width: 95%;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+
+  @media screen and (min-width: 600px) {
+    flex-direction: row-reverse;
+  }
+}
