@@ -10,7 +10,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [Solution](https://mystifying-jang-9c7e0c.netlify.app/)
+- Live Site URL: [Solution](https://trusting-morse-0cc5d9.netlify.app)
 
 ## My process
 
