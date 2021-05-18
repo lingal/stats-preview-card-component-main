@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
-
 *,
 *::before,
 *::after {
@@ -74,7 +73,7 @@ ul {
   }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 600px) {
   .card__text {
     display: grid;
     place-items: center;
@@ -106,7 +105,7 @@ ul {
 }
 
 .card__text .stats {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   margin-top: 2rem;
 }
 
@@ -126,6 +125,7 @@ ul {
   font-size: 0.7rem;
   color: rgba(255, 255, 255, 0.6);
   letter-spacing: 0.1rem;
+  font-weight: 400;
 }
 
 .card__text .stats .stat + .stat {
@@ -136,8 +136,7 @@ ul {
   .card__text .stats {
     display: flex;
     justify-content: space-between;
-    padding: 3rem 0;
-    margin-top: 0;
+    padding: 1rem 0;
   }
   .card__text .stats .stat + .stat {
     margin-top: 0;
@@ -159,12 +158,12 @@ ul {
 
 .container {
   width: 90%;
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
 .card__width {
-  max-width: 95%;
+  max-width: 85%;
   margin: 0 auto;
 }
 
